@@ -1,0 +1,3 @@
+"4 Weeks of Motoko" est sous licence Creative Commons Attribution 4.0 International License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+ En vertu de cette licence, vous êtes libre de partager, d'utiliser et de développer cette œuvre, à des fins commerciales ou non commerciales, à condition de fournir un crédit approprié à « 4 Weeks of Motoko », d'inclure un lien vers la licence et d'indiquer si des modifications ont été apportées. Cela favorise le partage ouvert et la collaboration tout en assurant la reconnaissance des créateurs originaux.
