@@ -6,6 +6,7 @@ actor Factoriel {
         for (i : Nat in Iter.range(1, n)) {
             facto *= i;
         };
+        
         return facto;
     };
 };
