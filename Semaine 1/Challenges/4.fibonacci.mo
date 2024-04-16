@@ -1,4 +1,4 @@
-/* Semaine 1, Exercice 3
+/* Semaine 1, Exercice 4
  * La suite de Fibonacci se présente comme suit: 0,1,1,2,3,5,8,13,21,34,....
  * Chaque nombre de cette suite est la somme des deux qui le précèdent.
  * La suite est calculée à partir de la position 2 
