@@ -12,7 +12,7 @@ actor Objectifs {
     };
 
     public func afficherObjectifs() : async [Text] {
-    // 3. retourner le tableau d'objectifs 
+    // 3. retourner le tableau d'objectifs
     return Buffer.toArray(objectifs);
     };
 };
